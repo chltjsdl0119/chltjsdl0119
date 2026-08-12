@@ -23,6 +23,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chltjsdl0119&theme=github_dark" alt="chltjsdl0119's GitHub profile summary" />
 </a>
 
+<br />
+
+<a href="https://github.com/chltjsdl0119">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=chltjsdl0119&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="chltjsdl0119's GitHub stats and rank" />
+</a>
+
 </div>
 
 ---
