@@ -1,3 +1,5 @@
+# 최승원
+
 안녕하세요, 백엔드 엔지니어 최승원입니다. 👋
 
 기능 구현 이후에 발생하는 데이터 정합성, 성능 병목, 장애 원인을 추적하고 개선합니다.
@@ -10,6 +12,21 @@
 - **Backend:** Java, Spring Boot, JPA
 - **Data & Messaging:** PostgreSQL, MySQL, Redis, Apache Kafka
 - **Infrastructure:** Docker, AWS
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/chltjsdl0119">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chltjsdl0119&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" alt="chltjsdl0119's GitHub stats" />
+</a>
+<a href="https://github.com/chltjsdl0119">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chltjsdl0119&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+</a>
+
+</div>
 
 ---
 
