@@ -1,14 +1,13 @@
 # 최승원
 
-Backend Developer
-
+안녕하세요. 최승원입니다.
 Java와 Spring Boot를 기반으로 백엔드 시스템을 개발합니다. 서비스의 운영 안정성을 높이는 데 관심이 있습니다.
 
 ## Experience
 
 | Date | Company | Role |
 |---|---|---|
-| 2026.09 ~ Present | Eximbay | Backend Developer |
+| 2026.09 ~ Present | EXIMBAY | Backend Developer |
 
 ## Tech
 
