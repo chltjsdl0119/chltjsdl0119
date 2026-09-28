@@ -7,7 +7,7 @@ Java와 Spring Boot를 기반으로 백엔드 시스템을 개발합니다. 서�
 
 | Date | Company | Role |
 |---|---|---|
-| 2026.09 ~ Present | EXIMBAY | Backend Developer |
+| 2026.09 ~ Present | EXIMBAY | Product Engineer |
 
 ## Tech
 
